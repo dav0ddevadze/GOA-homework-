@@ -1,0 +1,44 @@
+#div1{
+
+    width: 150px;
+    height: 200px;
+    background-color: aqua;
+    position: absolute;
+    left: 400px;
+    left: 150;
+}
+ 
+
+#div1:active{
+    transform: translate(200px)
+}
+
+
+#div2{
+    width: 150px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    left: 330px;
+    left: 130;
+
+}
+
+#div2:active{
+    transform:scale(10)
+}
+
+
+#div3{
+    width: 150px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    left: 30px;
+    left: 230;
+
+}
+
+#div3:active{
+    transform:translate(10px)
+}
