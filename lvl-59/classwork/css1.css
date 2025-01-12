@@ -40,5 +40,5 @@
 }
 
 #div3:active{
-    transform:translate(10px)
+    transform:(10px,10px)
 }
